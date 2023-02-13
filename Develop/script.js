@@ -1,4 +1,5 @@
 // // Assignment Code
+alert ("Welcome to my page!, Please click the Generate Password button to begin.");
 // <button id="generate" class="btn">Generate Password</button>
 var generateBtn = document.querySelector("#generate"); //Targets the generate button
 var upperCase = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"];
